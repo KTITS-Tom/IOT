@@ -1,0 +1,10 @@
+{
+  "data": {"sensorId":"247189be8001","humidity":64.013671875,"temperatureFromHumidity":22.79144287109375,"objectTemperature":14.75,"temperatureFromIr":22.65625,"pressure":1018.3,"lux":21.41,"currentTime":"2017-01-08T17:04:45.314Z","SensorName":"Wohnzimmer"},
+  "properties": { "propertyList": [] },
+  "messageId": "",
+  "to": "",
+  "expiryTimeUtc": null,
+  "lockToken": "",
+  "correlationId": "",
+  "userId": ""
+}

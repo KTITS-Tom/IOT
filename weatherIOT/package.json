@@ -1,0 +1,13 @@
+{
+  "name": "tom_weatherIOT",
+  "version": "1.0.0",
+  "dependencies": {
+    "async": "latest",
+    "azure-iot-device": "latest",
+    "azure-iot-device-amqp": "latest",
+    "azure-iot-device-http": "latest",
+    "azure-iot-device-mqtt": "latest",
+    "azure-iothub": "^1.1.2",
+    "sensortag": "latest"
+  }
+}
