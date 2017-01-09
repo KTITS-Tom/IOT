@@ -6,7 +6,7 @@ var Client = require('azure-iot-device').Client;
 var ConnectionString = require('azure-iot-device').ConnectionString;
 var Message = require('azure-iot-device').Message;
 
-var connectionString = 'HostName=Tom.azure-devices.net;DeviceId=TomRaspBerry;SharedAccessKey=tv8/Yjr0IXBkR6+GizK76+ACU7cUNrUeWswUqmysT2Y=';
+var connectionString = 'HostName=xxx.azure-devices.net;DeviceId=TomRaspBerry;SharedAccessKey=yyy';
 var deviceId = ConnectionString.parse(connectionString).DeviceId;
 var client = Client.fromConnectionString(connectionString, Protocol);
 
